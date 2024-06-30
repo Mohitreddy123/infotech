@@ -288,7 +288,14 @@ button {
     color: #333;
     margin-bottom: 20px;
 }
-
+.project1{
+    display: flex;
+    justify-content: center;
+    width: 60rem;
+    height: 60rem;
+    overflow: hidden;
+    margin: auto;
+}
 .project-container {
     display: flex;
     justify-content: center;
